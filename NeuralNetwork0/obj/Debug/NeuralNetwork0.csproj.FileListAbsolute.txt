@@ -1,0 +1,21 @@
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\bin\Debug\NeuralNetwork0.exe.config
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\bin\Debug\NeuralNetwork0.exe
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\bin\Debug\NeuralNetwork0.pdb
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.csproj.AssemblyReference.cache
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.Form1.resources
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.Properties.Resources.resources
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.csproj.GenerateResource.cache
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.csproj.CoreCompileInputs.cache
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.exe
+C:\Users\kutin\source\repos\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\bin\Debug\NeuralNetwork0.exe.config
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\bin\Debug\NeuralNetwork0.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\bin\Debug\NeuralNetwork0.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.csproj.AssemblyReference.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.Form1.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.Properties.Resources.resources
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.csproj.GenerateResource.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.csproj.CoreCompileInputs.cache
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.exe
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.pdb
+C:\Users\kutin\OneDrive\Документы\Учёба\Last Chance\6 семестр\Нейронки\NeuralNetwork0\NeuralNetwork0\obj\Debug\NeuralNetwork0.csproj.SuggestedBindingRedirects.cache
